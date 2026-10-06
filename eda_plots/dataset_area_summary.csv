@@ -1,0 +1,4 @@
+source_dataset,count,mean,median,min,max
+chennai_house_price,2114,1291.4120151371808,1122.0,300,6700
+chennai_housing_sales,7109,1382.0730060486708,1373.0,500,2500
+metropolitan_india,4301,1250.16763543362,1092.0,362,7240

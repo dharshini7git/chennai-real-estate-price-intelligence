@@ -1,0 +1,234 @@
+feature,importance
+area_sqft,0.5593625305127826
+property_type_Commercial,0.05629182079994486
+location_Royapettah,0.02823584412472698
+bedrooms,0.025522304295618806
+location_Raja Annamalai Puram,0.024647187686054162
+landscaped_gardens,0.022645576990132275
+source_dataset_chennai_house_price,0.021752964712874256
+location_Nungambakkam,0.020506944508335734
+gymnasium,0.015225138990081488
+source_dataset_metropolitan_india,0.014602961452742058
+location_T Nagar,0.014438569672724562
+building_age,0.013069817180925359
+swimming_pool,0.01282376621037135
+location_Anna Nagar,0.011659905979169098
+location_Alwarpet,0.01145216774095881
+location_Karapakkam,0.008734858995843864
+childrens_play_area,0.008508300014203806
+location_Kotturpuram,0.008190078648282882
+location_Egmore,0.008145575826492177
+location_Kanathur Reddikuppam,0.007476529241793111
+location_Adyar,0.0074636871346277864
+location_Vadapalani,0.005988477049628792
+intercom,0.005451761583867448
+bathrooms,0.004915482515494547
+location_Velachery,0.004649165142959802
+location_Chromepet,0.0044865336445633
+parking_No,0.004005415528472514
+location_Sholinganallur,0.003758535040637508
+parking_Yes,0.0035166701975362503
+construction_status_Under Construction,0.0031861737700497944
+location_Thiruvanmiyur,0.00316353053886004
+club_house,0.00313453913413099
+location_Kilpauk,0.003085306652383809
+construction_status_Ready to Move,0.0030455853727502447
+security_24x7,0.003002649737313317
+power_backup,0.0026050453928165135
+source_dataset_chennai_housing_sales,0.0025760291860148837
+location_West Mambalam,0.0021387630492533125
+location_Besant Nagar,0.001958766204212168
+location_Perungudi,0.0019586859733135282
+location_K K Nagar,0.0016916492282229051
+location_Kattupakkam,0.001567967874163675
+location_Kolathur,0.0015036812785723577
+location_Padur,0.0014229741339038475
+location_Vandalur,0.0013959409654798172
+total_rooms,0.0013798830116721827
+location_Guindy,0.001276239802424634
+location_Maduravoyal,0.0012125756726045194
+location_Pallavaram,0.0011247847869892606
+location_Porur,0.001115789438775523
+location_Avadi,0.0009473936252115047
+location_Thoraipakkam,0.000922071827028563
+location_Shenoy Nagar,0.0008799481933282731
+location_Navallur,0.000877602485095185
+location_Pozhichalur,0.0008342268045464073
+location_Pallikaranai,0.0007176441660491339
+location_Saidapet,0.0007148841441211316
+location_Kundrathur,0.0006732042966527843
+location_Veppampattu,0.0006524000141684119
+location_Kovur,0.000649683798279999
+location_Korattur,0.0006354405877186637
+location_Selaiyur,0.0006162018690831779
+location_Thoraipakkam OMR,0.0005643832954510927
+location_Kelambakkam,0.0005048693641128109
+location_Peerakankaranai,0.00048464842273476366
+location_Anna Nagar West,0.0004515625006392994
+location_Mogappair East,0.0004507838303910359
+property_type_Others,0.00038313810962215303
+location_Mogappair,0.00038171852561988504
+property_type_House,0.00037826381915332367
+location_Iyappanthangal,0.00035398083191839083
+location_Aminjikarai,0.0003516082348109149
+location_Thiruverkadu,0.0003211203781384556
+location_Chetpet,0.000307907227063963
+location_Purasawalkam,0.0002968902207863121
+location_Moolacheri,0.00028354434303370154
+location_East Tambaram,0.000254308458556795
+location_Gopalapuram,0.0002427576472811381
+location_Valasaravakkam,0.0002196979979341374
+location_Poonamallee,0.00021930433666893072
+location_Kottivakkam,0.0002065408860931647
+location_Maraimalai Nagar,0.00020624543033201983
+location_Mahindra World City,0.00019718995769924612
+location_Teynampet,0.00019468356188317396
+location_West Tambaram,0.0001924162724917014
+location_Guduvancheri,0.0001839067280009234
+location_Madambakkam,0.00017881082026342514
+location_Velappanchavadi,0.0001469131927796409
+location_Ponneri,0.00013763486112501215
+location_Singaperumal Koil,0.0001375178456179739
+location_Thiruvidandhai,0.0001217442962107221
+location_Vettuvankani,0.00011469203223163154
+location_Perungalathur,0.00011021454903797589
+location_Nanmangalam,9.479394524147106e-05
+location_Choolaimedu,8.97537096770405e-05
+location_Pammal,6.867247328864806e-05
+location_Thalambur,6.580269509229003e-05
+location_Medavakkam,6.475980483969155e-05
+location_Madipakkam,4.933616684608929e-05
+location_Perumbakkam,4.7519550828815737e-05
+location_Adambakkam,4.563565276766269e-05
+location_CIT Nagar,4.3504481384675186e-05
+location_Ayanambakkam,4.171028193864602e-05
+location_Mugalivakkam,4.119533401036154e-05
+location_Sunnambu Kolathur S Kolathur,3.96780204806262e-05
+location_Anakaputhur,3.647451557759234e-05
+location_Arumbakkam,3.570928713603034e-05
+location_Ambattur,3.547557897366035e-05
+location_Thirumullaivoyal,3.1029680904184656e-05
+location_Sithalapakkam,3.0965681183053024e-05
+location_Vanagaram,2.58974480676478e-05
+location_Nandambakkam,2.4445018940977805e-05
+location_Thaiyur,2.165677057906452e-05
+location_Virugambakkam,2.1360880205238065e-05
+location_Perambur,1.894616661225686e-05
+location_Saligramam,1.7365753531290934e-05
+location_Tambaram Sanatoruim,1.4391127711976062e-05
+location_Sembakkam,1.3978910782764028e-05
+location_Tiruvottiyur,1.3356840415667367e-05
+location_Manapakkam,1.3006063817428491e-05
+location_Kattankulathur,1.2327030552063869e-05
+location_Ottiyambakkam,1.0921774208092505e-05
+location_Nesapakkam,1.0774890879735817e-05
+location_Madhavaram,1.0700689434558282e-05
+location_Kovilambakkam,1.03531732930781e-05
+location_Mevalurkuppam,9.741803367034174e-06
+location_Siruseri,9.702339438690419e-06
+location_Kilkattalai,8.99523400926578e-06
+location_Koyambedu,8.957917289742593e-06
+location_Kolapakkam,7.802757209291982e-06
+location_Thirumazhisai,7.522371864628669e-06
+location_Vengambakkam,6.708729060687261e-06
+location_Thandalam,6.631270025586813e-06
+location_Semmancheri,6.438973374644695e-06
+location_Gowrivakkam,6.196602646518396e-06
+location_Oragadam Industrial Corridor,4.952363567439937e-06
+location_Urapakkam,4.374835426096596e-06
+location_Vengaivasal,3.51697318939964e-06
+location_Padappai,3.3430177927343515e-06
+location_Nanganallur,3.2359395538741118e-06
+location_Manikandan Nagar,3.2232054641194514e-06
+location_Triplicane,3.1151267627323654e-06
+location_Cholambedu,2.5652162765766145e-06
+location_Ambattur Industrial Estate,2.5429519280708392e-06
+location_Gerugambakkam,2.322816108954412e-06
+location_Kodambakkam,1.588615582585676e-06
+location_Agaramthen,1.5829455685002024e-06
+location_Vellakkal,1.50893650776323e-06
+location_Ullagaram,1.3441859832330665e-06
+location_Rajakilpakkam,1.1660668073565642e-06
+location_Moolakadai,8.61111331479554e-07
+location_Thirumalpur,7.932955467677447e-07
+location_Mappedu,6.955840178746135e-07
+location_Annamalai Colony,5.730657644482177e-07
+location_Periyapanicheri,4.195506951682949e-07
+location_Bakthavatchalapuram,3.20041307725014e-07
+location_Kuthambakkam,2.521649750839346e-07
+location_Mangadu,2.4567869989606166e-07
+location_Ramapuram,1.9360129683315982e-07
+location_Alandur,7.203873394794182e-08
+location_Ragavendra Colony,4.3418149561466215e-08
+location_Ayapakkam,4.188744909645617e-08
+location_Pattabiram,4.062619386748099e-08
+location_Thiruporur,3.21254716125457e-08
+location_Chitlapakkam,2.8016381125435844e-09
+location_Abiramapuram,0.0
+location_Ayanavaram,0.0
+location_Chembarambakkam,0.0
+location_Chengalpattu,0.0
+location_Mannur,0.0
+location_Mannivakkam,0.0
+location_Mambakkam,0.0
+location_Manali,0.0
+location_Madhanandapuram,0.0
+location_Madhavaram Milk Colony,0.0
+location_Kumananchavadi,0.0
+location_Kumaran Nagar,0.0
+location_Kolapakkam Vandalur,0.0
+location_Kovalam,0.0
+location_Kodungaiyur West,0.0
+location_Irumbuliyur,0.0
+location_Injambakkam,0.0
+location_Kandigai,0.0
+location_Keelma Nagar,0.0
+location_Kil Ayanambakkam,0.0
+location_Jeth Nagar,0.0
+location_Jamalia,0.0
+location_Ekkatuthangal,0.0
+location_Egattur,0.0
+location_Chikkarayapuram,0.0
+location_Elandanur,0.0
+location_Egatoor,0.0
+location_Irandankattalai,0.0
+location_Iyyapa Nagar,0.0
+location_200 Feet Radial Road,0.0
+location_Adhanur,0.0
+location_Anna Nagar East,0.0
+location_Ashok Nagar,0.0
+location_Nandanam,0.0
+location_Mylapore,0.0
+location_Mudichur,0.0
+location_Royapuram,0.0
+location_Ramavaram,0.0
+location_Rathinamangalam,0.0
+location_Red Hills,0.0
+location_Pudupakkam,0.0
+location_Puzhal,0.0
+location_Periyar Nagar,0.0
+location_Ponniammanmedu,0.0
+location_Pazavanthangal,0.0
+location_Perumalpattu,0.0
+location_Pallikaranai VGP Shanti Nagar,0.0
+location_Nenmeli,0.0
+location_Neelankarai,0.0
+location_Oragadam Village Ambattur Talu,0.0
+location_Padi,0.0
+location_Palavakkam,0.0
+location_Old Pallavaram,0.0
+location_OMR Road,0.0
+location_Nehru Nagar,0.0
+location_Nallambakkam,0.0
+location_Shanthi Nagar,0.0
+location_Sevvapet,0.0
+location_Sriperumbudur,0.0
+location_TNHB,0.0
+location_Thiruneermalai,0.0
+location_Tharapakkam,0.0
+location_Thatchoor,0.0
+location_Thirumudivakkam,0.0
+location_Tiruporur Near Kelambakkam,0.0
+location_Vadanemmeli,0.0
+location_Villivakkam,0.0
+location_Washermanpet,0.0
